@@ -62,6 +62,7 @@ It was created by [IBM Emerging Technology](https://www.ibm.com/blogs/emerging-t
 
 * Nick O'Leary [@knolleary](http://twitter.com/knolleary)
 * Dave Conway-Jones [@ceejay](http://twitter.com/ceejay)
+* smc
 
 
 
